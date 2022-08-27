@@ -1,10 +1,9 @@
 <h1 align="center">
   Flutter Portfolio
 </h1>
-3
+<p align="center">
 This project designed using figma and built using flutter.
-4
-​
+</p>
 <p align="center">
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
@@ -43,3 +42,4 @@ This project designed using figma and built using flutter.
 
 ## Auther
 Rakib_khan  khanrakib218@gmail.com
+![](https://github.com/Rakib00111/Portfolio-using-flutter/blob/main/My_portfolio.jpg)
